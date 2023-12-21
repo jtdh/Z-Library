@@ -44,7 +44,12 @@ Z-Library，曾被誉为“全球最大的数字图书馆”，是一个影子�
 收录规模与自我宣传
 
 截至2022年6月12日，Z-Library声称其已收录了惊人的10,456,034本书和84,837,646篇文章。在其电子书搜索页面上，它自夸为“全球最大的数字图书馆”，而在文章搜索页面上则标榜自己是“全球最大的科学文章存储库”。这一规模让人难以置信，但也引发了对其合法性和内容来源的质疑。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![](https://github.com/jtdh/actress/assets/99425739/1d7227dc-2f7e-4034-9504-fcc88858cd38)](https://github.com/follow666/tian_kong_ti)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 起源与创世纪图书馆的关系
 
