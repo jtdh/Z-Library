@@ -54,6 +54,7 @@ Z-Library，曾被誉为“全球最大的数字图书馆”，是一个影子�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+![12485](https://github.com/jtdh/Z-Library/assets/99425739/7ccd8e26-911a-4995-91ba-3b660563311c)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,6 +64,9 @@ Z-Library，曾被誉为“全球最大的数字图书馆”，是一个影子�
 Z-Library最初是创世纪图书馆的镜像网站，获取了大部分馆藏。然而，与创世纪图书馆不同的是，Z-Library允许用户自行上传一些馆藏，这些内容并不受原图书馆的管理。这一点导致了一些法律和伦理问题，尤其是涉及到版权的争议。
 
 国际屏蔽与再次访问
+
+![12494](https://github.com/jtdh/Z-Library/assets/99425739/fda97051-51f1-4ba9-8659-0427319e627b)
+
 
 美国政府于2022年11月3日屏蔽了Z-Library的公开网域，但在2023年2月11日，用户却惊喜地发现他们可以再次访问Z-Library。历史项目页面上的“自2009年起提供免费电子书”的字句，似乎是对该平台的一种自信宣言。
 
@@ -88,6 +92,9 @@ Z-Library曾多次更换DNS服务器，采取各种技术手段应对屏蔽行�
 
 用户访问与功能
 
+![12488](https://github.com/jtdh/Z-Library/assets/99425739/9f3360da-0d34-453e-86de-1c622ef54052)
+
+
 尽管Z-Library在多个国家遭到屏蔽，用户于2023年2月11日仍然可以通过点击singlelogin.me链接并登录账户来访问。此后，Z-Library计划在各地开设“Z-Points”，提供实体书分享服务。然而，美国当局在5月再度冻结了Z-Library部分域名，引发了对言论自由和数字知识共享的担忧。
 
 用户上传与捐款
@@ -102,11 +109,10 @@ Z-Library的兴衰经历了技术挑战、法律纠纷和国际政治的压力�
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![12489](https://github.com/jtdh/Z-Library/assets/99425739/14b5c6c8-1ce3-499b-b4a5-cf888eec3e82)
 
-[![](https://github.com/jtdh/Movie-Recommendation-List/assets/99425739/cc18f8a6-4bb6-4c89-aa8e-54a75fc7745e)](https://github.com/follow666/tian_kong_ti)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 
