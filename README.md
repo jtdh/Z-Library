@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-###  更新时间 2023年.12月 , 如信息滞后，请访问实时更新地址👉： https://github.com/jtdh/Z-Library
+###  更新时间 2023年.12月 , 如信息滞后，请访问本页👉[近日更新](https://github.com/jtdh/Z-Library/blob/main/README.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | 地址                      |                                
@@ -33,7 +33,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-**Z-Library因某些原因经常被屏蔽...这里会实时提供Z-Library最新可访问的入口地址。需要请关注**
+**Z-Library因某些原因经常被屏蔽...这里会实时提供[Z-Library最新可访问的入口地址](https://a-i-1.gitbook.io/abc/zlibrary-tu-shu-guan-ru-kou-dao-hang)。需要请关注**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
